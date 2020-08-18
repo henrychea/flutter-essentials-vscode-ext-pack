@@ -7,8 +7,6 @@
 
 - [Installation](#installation)
 - [Extensions](#extensions)
-- [Contributors](#contributors)
-- [Contribution](#contribution)
 - [License](#license)
 
 ---
@@ -16,7 +14,7 @@
 # Installation
 
 - Open VS Code and click on Extensions Icon in the Activity Bar.
-- Type **Flutter Essentials Pack**
+- Type **flutter-essentials-pack**
 - Install the Extension Pack.
 
 
@@ -43,3 +41,5 @@
 
 ---
 ## License
+<a href="https://github.com/henrycodebreaker/flutter-essentials-vscode-ext-pack/blob/master/LICENSE">Click here</a>
+
