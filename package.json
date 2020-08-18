@@ -1,0 +1,26 @@
+{
+    "name": "flutter-essentials-pack",
+    "displayName": "Flutter Essentials Pack",
+    "description": "All the essentials for Flutter Dev with VS Code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "nash.awesome-flutter-snippets",
+        "felixangelov.bloc",
+        "dart-code.dart-code",
+        "dart-code.flutter",
+        "circlecodesolution.ccs-flutter-color",
+        "alexisvt.flutter-snippets",
+        "jeroen-meijer.pubspec-assist",
+        "everettjf.pubspec-dependency-search"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/henrycodebreaker/flutter-essentials-vscode-ext-pack.git"
+    }
+}
