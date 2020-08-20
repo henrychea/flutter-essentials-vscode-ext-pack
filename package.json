@@ -3,7 +3,8 @@
     "displayName": "Flutter Essentials Pack",
     "description": "All the essentials for Flutter Dev with VS Code",
     "publisher": "henrycodebreaker",
-    "version": "0.0.1",
+    "icon": "images/icon.png",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.48.0"
     },
